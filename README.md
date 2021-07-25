@@ -10,3 +10,4 @@ The marketing department in Cyclistic, a fictional company, wants to design a ne
 * Cleaned and processed historical bycicle data
 * Analyzed historical bycicle data in order to identify trends, understand how casual riders behave differently from riders with paid memberships using visualizations
 * proposed recommendations to  executives to make decisions about marketing programs and strategies to convert casual riders to riders with annual memberships to increase profit.
+* The capstone case study in found ![in this link](https://github.com/ghiwotkal/Capstone_project)
