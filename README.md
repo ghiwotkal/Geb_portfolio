@@ -12,7 +12,7 @@ The marketing department in Cyclistic, a fictional company, wants to design a ne
 * Proposed recommendations to  executives to make decisions about marketing programs and strategies to convert casual riders to riders with annual memberships to increase profit.
 
 
-![Casual riders vs annual members](https://github.com/ghiwotkal/Capstone_project/blob/main/capstone.png)
+
 
 
 ## [Project 2: Plink_PCA for Dimensionality Reduction](https://github.com/ghiwotkal/plinkPCA/blob/main/R%20Notebook.pdf)
