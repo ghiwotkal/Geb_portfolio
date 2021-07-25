@@ -27,3 +27,6 @@ The marketing department in Cyclistic, a fictional company, wants to design a ne
 ![PC1 vs PC2 of the HGDP data](https://github.com/ghiwotkal/plinkPCA/blob/main/PC1%20vs%20PC2%20of%20HGDP.png)
 
 ![PC3 vs PC4 of the HGDP data](https://github.com/ghiwotkal/plinkPCA/blob/main/PC3%20vs%20PC4%20of%20HGDP.png)
+
+## [Project 3: covid19 wastewater projectrReport generator script](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.Rmd)
+In here, a small R script that can take an excel sheet or csv file as input and generate a report with  [this format](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.pdf).
