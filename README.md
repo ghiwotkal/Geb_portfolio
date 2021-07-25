@@ -4,8 +4,8 @@ I work as Research Assistant in the field of applied data sciences in the depart
 
 # Project 1: Google Data Analytics certificate Capstone case study
 The marketing department in Cyclistic, a fictional company, wants to design a new marketing strategy to maximize the Cyclistic company’s profit and want to know how casual riders and annual members use Cyclistic bikes differently for a speedy success.
-## Activities performed in this case study:
-*clearly defined the statement of the business task
+### Activities performed in this case study:
+* clearly defined the statement of the business task
 * prepared and described all data 
 * Cleaned and processed historical bycicle data
 * Analyzed historical bycicle data in order to identify trends, understand how casual riders behave differently from riders with paid memberships using visualizations
