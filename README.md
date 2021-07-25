@@ -1,10 +1,8 @@
-# Geb_portfolio
+# Hi, I am Geb
 
-# Hi, I am Gebrehiwot Kalayu
 I work as Research Assistant in the field of applied data sciences in the department of Mathematics in Khalifa University. I am enthusiastic in data analytics and data science. I have recently taken the Google Data Analytics Certification Course on coursera.
 
-# Project 1:
-## Google Data Analytics certificate Capstone case study
+# Project 1: Google Data Analytics certificate Capstone case study
 The marketing department in Cyclistic, a fictional company, wants to design a new marketing strategy to maximize the Cyclistic company’s profit and want to know how casual riders and annual members use Cyclistic bikes differently for a speedy success.
 ## Activities performed in this case study:
 *clearly defined the statement of the business task
