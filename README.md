@@ -31,11 +31,3 @@ The marketing department in Cyclistic, a fictional company, wants to design a ne
 ## [Project 3: covid19 wastewater projectrReport generator script](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.Rmd)
 In here, a small R script that can take an excel sheet or csv file as input and generate a report with  [this format](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.pdf) was written.
 
-![](https://github.com/ghiwotkal/covid19_wastewater/blob/main/header.JPG)
-### COVID-19 Detection in Influent Raw Wastewater
-### مشروعفحصفيروسكوروناالمستجد "كوفيد 19 " فيمياهالصرفالصحي
-
-#### Progress Report
-
-#### October  $7^{th}$  2020
-
