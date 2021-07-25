@@ -7,7 +7,7 @@ The marketing department in Cyclistic, a fictional company, wants to design a ne
 ### Activities performed in this case study:
 * Clearly defined the statement of the business task
 * Prepared and described all data 
-* Cleaned and processed historical bycicle data
+* Cleaned and processed historical bycicle trip data 
 * Analyzed historical bycicle data in order to identify trends, understand how casual riders behave differently from riders with paid memberships using visualizations
 * Proposed recommendations to  executives to make decisions about marketing programs and strategies to convert casual riders to riders with annual memberships to increase profit.
 
