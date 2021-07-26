@@ -11,7 +11,7 @@ The marketing department in Cyclistic, a fictional company, wanted to design a n
 * Analyzed historical bycicle data in order to identify trends, understand how casual riders behave differently from riders with paid memberships using visualizations
 * Proposed recommendations to  executives to make decisions about marketing programs and strategies to convert casual riders to riders with annual memberships to increase profit.
 
-![Casual riders vs annual members](https://github.com/ghiwotkal/Capstone_project/blob/main/capstone.png | width = 100)
+![Casual riders vs annual members](https://github.com/ghiwotkal/Capstone_project/blob/main/capstone.png=250*250)
 
 
 
