@@ -2,7 +2,7 @@
 
 I work as Research Assistant in the field of Applied Data Sciences and Statistics in the department of Mathematics in Khalifa University. I am interested in data analytics and data science. I have recently taken and completed the Google Data Analytics Certification Course on coursera. Some of the projects I have worked in are listed below.
 
-## [Project 1: Google Data Analytics certificate Capstone - Case Study: How does a Bike-share Navigate Speedy Success?](https://github.com/ghiwotkal/Capstone_project/blob/main/Case%20study%20Cyclistic%20Bike-share%20Analysis.ipynb)
+## [Project 1: Google Data Analytics Certificate Capstone - Case Study: How does a Bike-share Navigate Speedy Success?](https://github.com/ghiwotkal/Capstone_project/blob/main/Case%20study%20Cyclistic%20Bike-share%20Analysis.ipynb)
 The marketing department in Cyclistic, a fictional company, wanted to design a new marketing strategy to maximize the Cyclistic company’s profit and wanted to know how casual riders and annual members use Cyclistic bikes differently for a speedy success.
 ### Activities performed in this case study:
 * Clearly defined the statement of the business task
