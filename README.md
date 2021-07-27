@@ -32,7 +32,7 @@ The marketing department in Cyclistic, a fictional company, wanted to design a n
 In here, a small R script that can take an excel sheet or csv file as input and generate a report with  [this format](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.pdf) was written.
 
 ## [Project 4: Using bigsnpr to get Principal component Analysis (PCA) of the bmi data](https://github.com/ghiwotkal/bigsnprPCA)
-In this project, an R package called `bigsnpr` was used to do principal component analysis of a real bmi genetic data. The package reads a plink (bed/bim/fam) file formats. The bmi data, which was originally given as .ped and .map, was first converted to .bed, .bim and fam formats using a command line code.
+* In this project, an R package called `bigsnpr` was used to do principal component analysis of a real bmi genetic data. The package reads a plink (bed/bim/fam) file formats. * The bmi data, which was originally given as .ped and .map, was first converted to .bed, .bim and .fam formats using a command line code.
 
 The first 10 PCs corresponding to pruned SNPs
 
