@@ -34,8 +34,14 @@ In here, a small R script that can take an excel sheet or csv file as input and 
 ## [Project 4: Using bigsnpr to get Principal component Analysis (PCA) of the bmi data](https://github.com/ghiwotkal/bigsnprPCA)
 In this project, an R package called `bigsnpr` was used to do principal component analysis of a real BMI genetic data. The package reads a plink (bed/bim/fam) file formats. The bmi data, which was originally given as .ped and .map, was first converted to .bed, .bim and fam formats using a command line code.
 
+The first 10 PCs corresponding to pruned SNPs
+
 ![The first 10 PCs corresponding to pruned SNPs](https://github.com/ghiwotkal/bigsnprPCA/blob/main/pcIndex.png)
 
+A plot of PC1 VS PC2
+
 ![A plot of PC1 VS PC2](https://github.com/ghiwotkal/bigsnprPCA/blob/main/bmiPCA1.png)
+
+A plot of PC1 VS PC2 colored with the BMI
 
 ![A plot of PC1 VS PC2 colored with the BMI](https://github.com/ghiwotkal/bigsnprPCA/blob/main/bmiPCA2.png)
