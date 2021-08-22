@@ -31,7 +31,7 @@ The marketing department in Cyclistic, a fictional company, wanted to design a n
 ## [Project 3: covid19 wastewater projectr report generator script](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.Rmd) 
 In here, a small R script that can take an excel sheet or csv file as input and generate a report with  [this format](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.pdf) was written.
 
-## [Project 4: Using bigsnpr to do  Principal component Analysis (PCA) and Genome Wide Association Stduy(GWAS) of the bmi data](https://github.com/ghiwotkal/bigsnprPCA)
+## [Project 4: Using bigsnpr to do  Principal component Analysis (PCA) and Genome Wide Association Stduy(GWAS) of gentic data](https://github.com/ghiwotkal/bigsnprPCA)
 * In this project, an R package called `bigsnpr` was used to do principal component analysis and GWAS of a real bmi genetic data. The package reads a plink (bed/bim/fam) file formats.
 * The bmi data, which was originally given as .ped and .map, was first converted to .bed, .bim and .fam formats using a command line code.
 
