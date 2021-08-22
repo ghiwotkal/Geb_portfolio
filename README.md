@@ -31,18 +31,18 @@ The marketing department in Cyclistic, a fictional company, wanted to design a n
 ## [Project 3: covid19 wastewater projectr report generator script](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.Rmd) 
 In here, a small R script that can take an excel sheet or csv file as input and generate a report with  [this format](https://github.com/ghiwotkal/covid19_wastewater/blob/main/wastewater_covid19_detection_report.pdf) was written.
 
-## [Project 4: Using bigsnpr to get Principal component Analysis (PCA) of the bmi data](https://github.com/ghiwotkal/bigsnprPCA)
-* In this project, an R package called `bigsnpr` was used to do principal component analysis of a real bmi genetic data. The package reads a plink (bed/bim/fam) file formats.
+## [Project 4: Using bigsnpr to do  Principal component Analysis (PCA) and Genome Wide Association Stduy(GWAS) of the bmi data](https://github.com/ghiwotkal/bigsnprPCA)
+* In this project, an R package called `bigsnpr` was used to do principal component analysis and GWAS of a real bmi genetic data. The package reads a plink (bed/bim/fam) file formats.
 * The bmi data, which was originally given as .ped and .map, was first converted to .bed, .bim and .fam formats using a command line code.
 
-The first 10 PCs corresponding to pruned SNPs
+The first principal component Analysis
 
-![The first 10 PCs corresponding to pruned SNPs](https://github.com/ghiwotkal/bigsnprPCA/blob/main/pcIndex.png)
+![The Principal Component Analysis](https://github.com/ghiwotkal/bigsnprPCA/blob/main/PCAs.PNG)
 
-A plot of PC1 VS PC2
 
-![A plot of PC1 VS PC2](https://github.com/ghiwotkal/bigsnprPCA/blob/main/bmiPCA1.png)
 
-A plot of PC1 VS PC2 colored with the BMI
+![The quantil-quantile plot](https://github.com/ghiwotkal/bigsnprPCA/blob/main/gwas.PNG)
 
-![A plot of PC1 VS PC2 colored with the BMI](https://github.com/ghiwotkal/bigsnprPCA/blob/main/bmiPCA2.png)
+The manahattan plot
+
+![manhattan plot](https://github.com/ghiwotkal/bigsnprPCA/blob/main/manhattan%20plot.PNG)
