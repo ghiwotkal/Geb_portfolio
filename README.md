@@ -35,7 +35,7 @@ In here, a small R script that can take an excel sheet or csv file as input and 
 * In this project, an R package called `bigsnpr` was used to do principal component analysis and GWAS of a real bmi genetic data. The package reads a plink (bed/bim/fam) file formats.
 * The bmi data, which was originally given as .ped and .map, was first converted to .bed, .bim and .fam formats using a command line code.
 
-The first principal component Analysis
+The first 12 principal components
 
 ![The Principal Component Analysis](https://github.com/ghiwotkal/bigsnprPCA/blob/main/PCAs.PNG)
 
