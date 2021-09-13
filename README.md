@@ -15,8 +15,8 @@ The marketing department in Cyclistic, a fictional company, wanted to design a n
 
 
 
-## [Project 2: Plink_PCA for Dimensionality Reduction](https://github.com/ghiwotkal/plinkPCA/blob/main/R%20Notebook.pdf)
-* Plink principal component analysis (plinkPCA), a dimensionality reduction method, was applied to the Human Genome Diversity Panel (HGDP-CEPH) data to understand the population structure. 
+## [Project 2: PCA for Dimensionality Reduction](https://github.com/ghiwotkal/plinkPCA/blob/main/R%20Notebook.pdf)
+* Principal component analysis (PCA), a dimensionality reduction method, was applied to the Human Genome Diversity Panel (HGDP-CEPH) data to understand the population structure. 
 * HGDP data was originally  in a text format and was converted to .ped format and then the .ped formats to .bed, .bim and .fam
 * Then plink command line codes were used to produce egenvalues and eigenvectors of the HGDP data.
 * plinkPCA was applied to the HGDP data to visualize and understand the population stucture.
@@ -24,7 +24,6 @@ The marketing department in Cyclistic, a fictional company, wanted to design a n
 
 ![PC1 vs PC2 of the HGDP data](https://github.com/ghiwotkal/plinkPCA/blob/main/PCA%20of%20HGDP%20(PC1%20vs%20PC2).png)
 
-![PC1 vs PC2 of the HGDP data](https://github.com/ghiwotkal/plinkPCA/blob/main/PC1%20vs%20PC2%20of%20HGDP.png)
 
 ![PC3 vs PC4 of the HGDP data](https://github.com/ghiwotkal/plinkPCA/blob/main/PC3%20vs%20PC4%20of%20HGDP.png)
 
