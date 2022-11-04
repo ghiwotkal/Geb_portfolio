@@ -48,3 +48,8 @@ The manahattan plot
 
 ## [Project 5: Dimensionality Reduction Methods for Visualizing Population Genetics](https://github.com/ghiwotkal/popviz/blob/main/Dimensionality_Reduction_Methods.pdf)
 
+Over the years, different dimensionality reduction and visualization methods have been implemented in a bid to
+visualize the sabtle features of high dimensional data. These methods have their own strengths and shortcomings. In here, a comprehensive review of these methods and their applications in visualizing population
+genetics is presented. Performances of the methods are investigated on the hgdp-ceph, 1000 genome and
+hapmap3 genomic datasets. It explains the results and suggests which method to use in visualizing
+high dimensional genomic data.
