@@ -53,6 +53,3 @@ visualize the sabtle features of high dimensional data. These methods have their
 genetics is presented. Performances of the methods are investigated on the hgdp-ceph, 1000 genome and
 hapmap3 genomic datasets. It explains the results and suggests which method to use in visualizing
 high dimensional genomic data.
-
-You can see a sample preprocessing of the data
-https://github.com/ghiwotkal/popviz/blob/main/Preprocessing_and_PCA_Analysis_of_the_1000G_2504_data.html
