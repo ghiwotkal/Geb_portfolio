@@ -46,5 +46,5 @@ The manahattan plot
 ![manhattan plot](https://github.com/ghiwotkal/bigsnprPCA/blob/main/manhattan%20plot.PNG)
 
 
-## [Project 5: Dimensionality Reduction Methods for Visualizing Population Genetics] 
-(https://github.com/ghiwotkal/popviz)
+## [Project 5: Dimensionality Reduction Methods for Visualizing Population Genetics] (https://github.com/ghiwotkal/popviz/blob/main/Dimensionality_Reduction_Methods.pdf)
+
