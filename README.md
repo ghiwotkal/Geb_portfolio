@@ -38,11 +38,13 @@ The first 12 principal components
 
 ![The Principal Component Analysis](https://github.com/ghiwotkal/bigsnprPCA/blob/main/PCAs.PNG)
 
-## [Project 5: Dimensionality Reduction Methods for Visualizing Population Genetics] (https://github.com/ghiwotkal/popviz)
-
 
 ![The quantil-quantile plot](https://github.com/ghiwotkal/bigsnprPCA/blob/main/gwas.PNG)
 
 The manahattan plot
 
 ![manhattan plot](https://github.com/ghiwotkal/bigsnprPCA/blob/main/manhattan%20plot.PNG)
+
+
+## [Project 5: Dimensionality Reduction Methods for Visualizing Population Genetics] 
+(https://github.com/ghiwotkal/popviz)
