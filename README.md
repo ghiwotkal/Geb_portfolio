@@ -55,4 +55,4 @@ hapmap3 genomic datasets. It explains the results and suggests which method to u
 high dimensional genomic data.
 
 You can see a sample preprocessing of the data
-https://github.com/<ghiwotkal>/<popviz>/blob/main/Preprocessing_and_PCA_Analysis_of_the_1000G_2504_data.html
+https://github.com/ghiwotkal/popviz/blob/main/Preprocessing_and_PCA_Analysis_of_the_1000G_2504_data.html
